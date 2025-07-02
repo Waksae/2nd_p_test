@@ -49,8 +49,9 @@
 
 # 4. 사용 데이터 및 API
 
-### 공공 API
-  - 농림수산식품교육문화정보원 제공 레시피 데이터 API
+## 공공 API
+![농림축산](./doc/img/농림축산공공데이터img.png)
+![농촌진흥](./doc/img/농촌진흥청_아이콘.png)
 
     - 데이터 정의서
     ![데이터 정의서](./doc/img/api_data_def.png)
@@ -60,8 +61,8 @@
     - 데이터 정의서
     ![데이터 정의서](./doc/img/csv_data_def.png)
 
-- 외부 API
-  - YouTube Data API v3 (레시피 영상 검색용)
+## 외부 API
+![유튜브](./doc/img/youtube_api_icon.png)
 ---
 
 # 5. DB 설계
