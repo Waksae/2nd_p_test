@@ -50,7 +50,8 @@
 # 4. 사용 데이터 및 API
 
 ## 공공 API
-<img src="./doc/img/농림축산공공데이터img.png" width="175"/>  <img src="./doc/img/농촌진흥청_아이콘.png" width="140"/>
+<img src="./doc/img/농림축산공공데이터img.png" width="175"/>
+<img src="./doc/img/농촌진흥청_아이콘.png" width="140"/>
 
 ### 데이터 정의서
   ![데이터 정의서](./doc/img/api_data_def.png)
