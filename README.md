@@ -108,6 +108,26 @@ LG U+ Why Not SW Camp 6기
 
 # 8. 기술 스택
 
+## 🛠️ Tech Stack
+
+### 🖥 프론트엔드
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+
+### 🧠 추천 시스템
+![Sentence-BERT](https://img.shields.io/badge/Sentence--BERT-FFBB00?style=for-the-badge&logo=sentencepiece&logoColor=black)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### 🔧 백엔드 / 데이터베이스
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 📊 시각화
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
+### 🌐 외부 API
+![YouTube Data API](https://img.shields.io/badge/YouTube%20Data%20API-v3-red?style=for-the-badge&logo=youtube&logoColor=white)
+
 | 항목 | 사용 기술 |
 |------|-----------|
 | 프론트엔드 | Streamlit |
@@ -134,22 +154,3 @@ LG U+ Why Not SW Camp 6기
 > 기간: 2025년 6월 26일 ~ 2025년 7월 2일 (총 5일)
 
 ![WBS](./doc/img/wbs.png)
-
-| 단계     | 업무             | 세부업무                                               | 기간           |
-|----------|------------------|--------------------------------------------------------|----------------|
-| 착수     | 프로젝트 기획     | 프로젝트 목적 정의, 방향성 합의                        | 6월 26일 (목)  |
-|          |                  | 프로젝트 세부 기획                                     | 6월 26일 (목)  |
-|          |                  | 프로젝트 일정 계획 수립                               | 6월 26일 (목)  |
-| 분석     | 요구사항 분석     | 사용자 요구/시나리오 정의                             | 6월 27일 (금)  |
-| 데이터 수집 및 DB 구축 | 데이터 수집 및 정의 | API 수집 및 구조 파악, 주요 컬럼 분석                 | 6월 27일 (금)  |
-|          | DB 구축          | 데이터 정제, 정규화, SQLite 기반 DB 구축              | 6월 27일 ~ 6월 30일 |
-| 모델 설계 및 구축 | 파이프라인 설계  | 데이터 처리 및 추천 로직 설계                         | 6월 30일 ~ 7월 1일 |
-|          | 추천 시스템 구축 | 조건 기반 + BERT 기반 추천 시스템 구현                | 6월 30일 ~ 7월 1일 |
-| 개발     | 프론트엔드 구현   | 메인 검색 UI, 결과 표시, 대시보드 구성                | 6월 30일 ~ 7월 2일 |
-|          | 백엔드 구현       | 레시피-영상 통합 검색, 영양성분 계산 기능 구현        | 6월 30일 ~ 7월 2일 |
-|          | 외부 API 연동    | YouTube API 연동, 중복 호출 방지                      | 7월 1일 ~ 7월 2일 |
-|          | 사용자 로그 수집 | 검색/추천/체류 시간 로그 Firebase 저장                | 7월 1일 ~ 7월 2일 |
-| 테스트 및 배포 | 기능 테스트    | 전체 기능 점검, 버그 수정                             | 7월 2일 (수)   |
-|          | 최종 배포        | Streamlit 기반 최종 배포                              | 7월 2일 (수)   |
-| 종료     | 발표 준비        | 발표 자료 제작                                        | 7월 2일 (수)   |
-|          | 문서 정리        | 기획서, README, 발표자료 등 최종 문서 정리            | 7월 2일 (수)   |
