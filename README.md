@@ -69,15 +69,15 @@ LG U+ Why Not SW Camp 6기
   - `NATION_INFO`, `TYPE_INFO`
   - 사용자 로그 테이블: `SEARCH_LOG`, `RECOMMEND_LOG`, `DWELL_TIME_LOG`
   - `NUTRITION_INFO` (영양 데이터)
-
+  
   - ERD
-
-
+  
+  
   ![ERD](./doc/erd.png)
-
+  
   - 테이블 정의서
 
-  
+
   ![테이블 정의서](./doc/db_data_def.png)
 ---
 
