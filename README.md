@@ -71,10 +71,7 @@ LG U+ Why Not SW Camp 6기
   - `NUTRITION_INFO` (영양 데이터)
   
   - ERD
-" "
-" "
-" "
-" "
+  -
   ![ERD](./doc/erd.png)
   
   - 테이블 정의서
