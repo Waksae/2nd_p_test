@@ -59,9 +59,6 @@ LG U+ Why Not SW Camp 6기
 
 - 외부 API
   - YouTube Data API v3 (레시피 영상 검색용)
-
-- 데이터 관계도
-  ![관계도](./doc/d_flow.png)
 ---
 
 # 5. DB 설계
@@ -74,9 +71,13 @@ LG U+ Why Not SW Camp 6기
   - `NUTRITION_INFO` (영양 데이터)
 
   - ERD
+
+
   ![ERD](./doc/erd.png)
 
   - 테이블 정의서
+
+  
   ![테이블 정의서](./doc/db_data_def.png)
 ---
 
