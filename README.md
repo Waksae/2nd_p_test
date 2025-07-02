@@ -54,9 +54,9 @@
 <img src="./doc/img/농촌진흥청_아이콘.png" width="140"/>
 
 ### 데이터 정의서
+  - 농림축산식품 공공데이터
   ![데이터 정의서](./doc/img/api_data_def.png)
-
-### 데이터 정의서
+  - 농촌진흥청 공공데이터
   ![데이터 정의서](./doc/img/csv_data_def.png)
 
 ## 외부 API
