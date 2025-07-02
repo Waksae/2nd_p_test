@@ -49,9 +49,13 @@ LG U+ Why Not SW Camp 6기
 
 - 공공 API
   - 농림수산식품교육문화정보원 제공 레시피 데이터 API
+
+  - 데이터 정의서
   ![데이터 정의서](./doc/api_data_def.png)
 
   - 농촌진흥청 국가표준식품성분표 DB 10.2
+
+  - 데이터 정의서
   ![데이터 정의서](./doc/csv_data_def.png)
 
 - 외부 API
@@ -67,7 +71,11 @@ LG U+ Why Not SW Camp 6기
   - `NATION_INFO`, `TYPE_INFO`
   - 사용자 로그 테이블: `SEARCH_LOG`, `RECOMMEND_LOG`, `DWELL_TIME_LOG`
   - `NUTRITION_INFO` (영양 데이터)
+
+  - ERD
   ![ERD](./doc/erd.png)
+
+  - 테이블 정의서
   ![테이블 정의서](./doc/db_data_def.png)
 ---
 
