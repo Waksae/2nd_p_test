@@ -56,6 +56,7 @@
 ### 데이터 정의서
   - 농림축산식품 공공데이터
   ![데이터 정의서](./doc/img/api_data_def.png)
+  ![ㅇㅇ](./doc/img/공백.png)
   - 농촌진흥청 공공데이터
   ![데이터 정의서](./doc/img/csv_data_def.png)
 
