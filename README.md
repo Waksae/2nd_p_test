@@ -49,19 +49,19 @@ LG U+ Why Not SW Camp 6기
 - 공공 API
   - 농림수산식품교육문화정보원 제공 레시피 데이터 API
 
-  - 데이터 정의서
-  ![데이터 정의서](./doc/api_data_def.png)
+    - 데이터 정의서
+    ![데이터 정의서](./doc/api_data_def.png)
 
   - 농촌진흥청 국가표준식품성분표 DB 10.2
 
-  - 데이터 정의서
-  ![데이터 정의서](./doc/csv_data_def.png)
+    - 데이터 정의서
+    ![데이터 정의서](./doc/csv_data_def.png)
 
 - 외부 API
   - YouTube Data API v3 (레시피 영상 검색용)
 
 - 데이터 관계도
-  ![관계도] (./doc/d_flow.png)
+  ![관계도](./doc/d_flow.png)
 ---
 
 # 5. DB 설계
@@ -87,10 +87,10 @@ LG U+ Why Not SW Camp 6기
 - 재료명 정제 및 수치 계산 처리 등 고도화된 전처리 수행
 
 - 데이터 처리 과정
-  ![처리과정] (./doc/process.png)
+  ![처리과정](./doc/process.png)
 
 - 서비스 플로우
-  ![관계도] (./doc/d_flow.png)
+  ![관계도](./doc/d_flow.png)
 
 - 시스템 아키텍쳐
 
