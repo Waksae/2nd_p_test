@@ -49,9 +49,9 @@ LG U+ Why Not SW Camp 6기
 
 - 공공 API
   - 농림수산식품교육문화정보원 제공 레시피 데이터 API
-  [데이터 정의서](./doc/api_data_def.png)
+  (./doc/api_data_def.png)
   - 농촌진흥청 국가표준식품성분표 DB 10.2
-  [데이터 정의서](./doc/csv_data_def.png)
+  (./doc/csv_data_def.png)
 - 외부 API
   - YouTube Data API v3 (레시피 영상 검색용)
 
