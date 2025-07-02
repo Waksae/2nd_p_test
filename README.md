@@ -50,12 +50,12 @@ LG U+ Why Not SW Camp 6기
   - 농림수산식품교육문화정보원 제공 레시피 데이터 API
 
     - 데이터 정의서
-    ![데이터 정의서](./doc/api_data_def.png)
+    ![데이터 정의서](./doc/img/api_data_def.png)
 
   - 농촌진흥청 국가표준식품성분표 DB 10.2
 
     - 데이터 정의서
-    ![데이터 정의서](./doc/csv_data_def.png)
+    ![데이터 정의서](./doc/img/csv_data_def.png)
 
 - 외부 API
   - YouTube Data API v3 (레시피 영상 검색용)
@@ -72,12 +72,12 @@ LG U+ Why Not SW Camp 6기
   
   - ERD
 
-  ![ERD](./doc/erd.png)
+  ![ERD](./doc/img/erd.png)
   
   - 테이블 정의서
 
 
-  ![테이블 정의서](./doc/db_data_def.png)
+  ![테이블 정의서](./doc/img/db_data_def.png)
 ---
 
 # 6. 데이터 전처리
@@ -87,10 +87,10 @@ LG U+ Why Not SW Camp 6기
 - 재료명 정제 및 수치 계산 처리 등 고도화된 전처리 수행
 
 - 데이터 처리 과정
-  ![처리과정](./doc/process.png)
+  ![처리과정](./doc/img/process.png)
 
 - 서비스 플로우
-  ![관계도](./doc/d_flow.png)
+  ![관계도](./doc/img/d_flow.png)
 
 - 시스템 아키텍쳐
 
@@ -103,7 +103,7 @@ LG U+ Why Not SW Camp 6기
 - 코사인 유사도 기반으로 의미 있는 레시피 탐색 제공
 
 - 추천 알고리즘 플로우
-![알고리즘](./doc/arg.png)
+![알고리즘](./doc/img/arg.png)
 ---
 
 # 8. 기술 스택
@@ -133,7 +133,7 @@ LG U+ Why Not SW Camp 6기
 
 > 기간: 2025년 6월 26일 ~ 2025년 7월 2일 (총 5일)
 
-![WBS](./doc/wbs.png)
+![WBS](./doc/img/wbs.png)
 
 | 단계     | 업무             | 세부업무                                               | 기간           |
 |----------|------------------|--------------------------------------------------------|----------------|
