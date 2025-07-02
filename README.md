@@ -46,7 +46,7 @@ LG U+ Why Not SW Camp 6기
 
 # 4. 사용 데이터 및 API
 
-- 공공 API
+### 공공 API
   - 농림수산식품교육문화정보원 제공 레시피 데이터 API
 
     - 데이터 정의서
@@ -70,11 +70,11 @@ LG U+ Why Not SW Camp 6기
   - 사용자 로그 테이블: `SEARCH_LOG`, `RECOMMEND_LOG`, `DWELL_TIME_LOG`
   - `NUTRITION_INFO` (영양 데이터)
   
-  - ERD
+### ERD
 
   ![ERD](./doc/img/erd.png)
   
-  - 테이블 정의서
+### 테이블 정의서
 
 
   ![테이블 정의서](./doc/img/db_data_def.png)
@@ -86,14 +86,14 @@ LG U+ Why Not SW Camp 6기
 - `CALORIE`가 0인 레시피는 랜덤포레스트 회귀모델을 통해 예측값으로 대체
 - 재료명 정제 및 수치 계산 처리 등 고도화된 전처리 수행
 
-- 데이터 처리 과정
+### 데이터 처리 과정
   ![처리과정](./doc/img/process.png)
 
-- 서비스 플로우
+### 서비스 플로우
   ![관계도](./doc/img/d_flow.png)
 
-- 시스템 아키텍쳐
-
+### 시스템 아키텍쳐
+  ![sysarch](./doc/img/sys_arch.png)
 ---
 
 # 7. 핵심 기술 및 모델
@@ -102,7 +102,7 @@ LG U+ Why Not SW Camp 6기
 - 조건 기반 검색 + 유사도 기반 추천을 동시 적용
 - 코사인 유사도 기반으로 의미 있는 레시피 탐색 제공
 
-- 추천 알고리즘 플로우
+### 추천 알고리즘 플로우
 ![알고리즘](./doc/img/arg.png)
 ---
 
@@ -128,14 +128,6 @@ LG U+ Why Not SW Camp 6기
 ### 🌐 외부 API
 ![YouTube Data API](https://img.shields.io/badge/YouTube%20Data%20API-v3-red?style=for-the-badge&logo=youtube&logoColor=white)
 
-| 항목 | 사용 기술 |
-|------|-----------|
-| 프론트엔드 | Streamlit |
-| 백엔드 / API 연동 | Python, Pandas, SQLite, Firebase |
-| 추천 시스템 | Sentence-BERT (Huggingface SentenceTransformer) |
-| 시각화 | Plotly |
-| 외부 API | YouTube Data API v3 |
-
 ---
 
 # 9. 기대 효과
@@ -151,6 +143,6 @@ LG U+ Why Not SW Camp 6기
 
 # 10. 추진일정
 
-> 기간: 2025년 6월 26일 ~ 2025년 7월 2일 (총 5일)
+### 기간: 2025년 6월 26일 ~ 2025년 7월 2일 (총 5일)
 
 ![WBS](./doc/img/wbs.png)
