@@ -94,9 +94,6 @@
 
 ### 서비스 플로우
   ![관계도](./doc/img/d_flow.png)
-
-### 시스템 아키텍쳐
-  ![sysarch](./doc/img/sys_arch.png)
 ---
 
 # 7. 핵심 기술 및 모델
@@ -109,9 +106,9 @@
 ![알고리즘](./doc/img/arg.png)
 ---
 
-# 8. 기술 스택
+# 8. 사용 기술
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### 🖥 프론트엔드
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
@@ -131,6 +128,8 @@
 ### 🌐 외부 API
 ![YouTube Data API](https://img.shields.io/badge/YouTube%20Data%20API-v3-red?style=for-the-badge&logo=youtube&logoColor=white)
 
+## System Architecture
+![sysarch](./doc/img/sys_arch.png)
 ---
 
 # 9. 기대 효과
