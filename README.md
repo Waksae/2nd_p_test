@@ -51,7 +51,7 @@
 
 ## 공공 API
 <img src="./doc/img/농림축산공공데이터img.png" width="150"/>
-<img src="./doc/img/농촌진흥청_아이콘.png" width="50"/>
+<img src="./doc/img/농촌진흥청_아이콘.png" width="150"/>
     - 데이터 정의서
     ![데이터 정의서](./doc/img/api_data_def.png)
 
@@ -61,7 +61,7 @@
     ![데이터 정의서](./doc/img/csv_data_def.png)
 
 ## 외부 API
-![유튜브](./doc/img/youtube_api_icon.png)
+<img src="./doc/img/youtube_api_icon.png" width="150"/>
 ---
 
 # 5. DB 설계
